@@ -1,0 +1,9 @@
+{
+  "name": "modlogiq-website",
+  "version": "1.0.0",
+  "description": "ModLogiq Landing Page",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  }
+}
